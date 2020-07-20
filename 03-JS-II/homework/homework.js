@@ -85,7 +85,7 @@ function esPrimo(numero) {
     }
   }
   return true;
-}
+} 
 
 
 // No modificar nada debajo de esta línea
